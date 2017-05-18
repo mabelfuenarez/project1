@@ -1,0 +1,21 @@
+{
+  "name": "project1",
+  "homepage": "https://github.com/mabelfuenarez/project1",
+  "authors": [
+    "mabelfuenarez <mabel_ines@hotmail.es>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
